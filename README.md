@@ -1,2 +1,4 @@
 # CAM-RC-CIRCUIT-CAR
-https://www.instructables.com/ESP32S3-CAM-RC-Car?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAdGRzdgTrzTVwZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp3SeRsM5hxweqxd15JdiYiPpOsHkc4b_Z--Y76BYTCEAWqea3_IzvzrbZtdu_aem_v-1OE4KuGdnMzGZEIFCGcQ
+
+
+This project is the successor to the ESP32CAM-RC-Car project, which was based on a previous-generation ESP32 board.The ESP32-S3 is a more powerful microcontroller that delivers smooth, low-latency video streaming.Also, this project uses the DRV8833 as a motor driver, improving power efficiency and reaching higher speeds.
