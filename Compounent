@@ -1,0 +1,19 @@
+01 - ESP32S3-CAM board
+
+01 - Car Chassis (2WD or 4WD)
+
+02 - DC Motors (3v - 6v)
+
+02 - High Brightness Star White Leds (5v, 1 Watt)
+
+02 - 18650 batteries (3.7v - 4.2v)
+
+01 - Battery support
+
+01 - MOSFET module (LR7843 or AOD4184)
+
+01 - (Optional) OV2640 camera (120 or 160 degree lens) - wide-angle capture
+
+02 - (Optional) 1000 μF capacitor
+
+02 - (Optional) 100 nF capacitor
